@@ -25,6 +25,12 @@ class MyApp extends StatelessWidget{
                     color: Colors.black87,
 
                     fontSize: 18
+                ),),
+              Text("من فونت ایران نستعلیق هستم",
+                style: TextStyle(
+                    color: Colors.black87,
+                    fontFamily: "nastaligh",
+                    fontSize: 30
                 ),)
             ],
           ),
